@@ -3,7 +3,7 @@ import {Link, Route, Routes} from "react-router-dom";
 import Home from "./pages/Home";
 import AgeResult from "./pages/AgeResult";
 import IncomeResult from "./pages/IncomeResult";
-import {Helmet} from "react-helmet";
+// import {Helmet} from "react-helmet";
 
 function App() {
   return (
